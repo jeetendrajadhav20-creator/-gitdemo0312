@@ -1,1 +1,2 @@
-I am working on Java file
+I am working on Java file and using stash
+This is the new implementation
